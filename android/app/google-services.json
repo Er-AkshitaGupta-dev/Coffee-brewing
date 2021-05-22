@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "806713342844",
+    "project_id": "coffee-brewing",
+    "storage_bucket": "coffee-brewing.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:806713342844:android:f73026f3e9eb81dc4902f9",
+        "android_client_info": {
+          "package_name": "com.technables.coffee_brewing"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "806713342844-8b2dm66oe61ktaannq0h96lup56l29so.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAUSgsifQpCgFD7uAqa7-VzoiI0iJ5VmzA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "806713342844-8b2dm66oe61ktaannq0h96lup56l29so.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
